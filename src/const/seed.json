@@ -1,0 +1,2622 @@
+[
+  {
+    "skill": [
+      {
+        "id": "4fc80b1d-acfa-4700-801c-f9921a2938ba",
+        "name": "Programming",
+        "description": "Expert in programming languages",
+        "demand": 99837,
+        "performance": 95365,
+        "usage_count": 79980,
+        "created_at": "2023-09-07T16:35:09.761Z",
+        "updated_at": "2023-09-07T21:29:07.209Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "7e722c3f-c2b9-4763-a645-e690a1e35fdf",
+        "name": "Graphic Design",
+        "description": "Creative designer with a passion for visual arts",
+        "demand": 22958,
+        "performance": 50342,
+        "usage_count": 17767,
+        "created_at": "2023-09-08T05:19:37.146Z",
+        "updated_at": "2023-09-07T15:13:39.988Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "c2bfa89c-5085-4395-90a6-73f9d27000eb",
+        "name": "Data Analysis",
+        "description": "Analytical skills for data-driven decision making",
+        "demand": 69348,
+        "performance": 43157,
+        "usage_count": 21580,
+        "created_at": "2023-09-07T14:15:47.458Z",
+        "updated_at": "2023-09-07T22:15:45.166Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "95e6c2b0-149d-47cf-ad19-40a277f66e34",
+        "name": "Project Management",
+        "description": "Experienced in managing complex projects",
+        "demand": 97022,
+        "performance": 18892,
+        "usage_count": 71675,
+        "created_at": "2023-09-07T16:33:10.749Z",
+        "updated_at": "2023-09-08T06:43:42.146Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "b711d7b8-2441-4678-a400-df5a1bccdb1a",
+        "name": "Marketing",
+        "description": "Strategic marketing expertise",
+        "demand": 20742,
+        "performance": 83918,
+        "usage_count": 50285,
+        "created_at": "2023-09-07T19:20:07.813Z",
+        "updated_at": "2023-09-08T05:51:24.820Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "usage_tracking": [
+      {
+        "id": "0e2fdedb-f57b-4bae-abae-837d22b5a58b",
+        "usage_date": "2023-09-08T06:41:07.398Z",
+        "usage_count": 52477,
+        "usage_duration": 12741,
+        "created_at": "2023-09-08T07:22:38.608Z",
+        "updated_at": "2023-09-07T22:55:50.503Z",
+        "skill_id": "95e6c2b0-149d-47cf-ad19-40a277f66e34",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "22be1fc7-5c43-431d-9050-f5c58747cfa0",
+        "usage_date": "2023-09-07T13:42:48.873Z",
+        "usage_count": 11325,
+        "usage_duration": 84568,
+        "created_at": "2023-09-07T17:26:34.151Z",
+        "updated_at": "2023-09-08T06:03:25.533Z",
+        "skill_id": "c2bfa89c-5085-4395-90a6-73f9d27000eb",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "f34ee76f-ef99-494b-9a18-740f95ec6730",
+        "usage_date": "2023-09-07T13:51:25.717Z",
+        "usage_count": 1102,
+        "usage_duration": 91881,
+        "created_at": "2023-09-08T03:38:19.277Z",
+        "updated_at": "2023-09-07T23:19:03.448Z",
+        "skill_id": "4fc80b1d-acfa-4700-801c-f9921a2938ba",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "15e52300-55b3-45c7-bd4b-24d37ede5529",
+        "usage_date": "2023-09-07T14:37:37.343Z",
+        "usage_count": 71761,
+        "usage_duration": 7805,
+        "created_at": "2023-09-07T13:06:36.115Z",
+        "updated_at": "2023-09-08T01:02:50.300Z",
+        "skill_id": "95e6c2b0-149d-47cf-ad19-40a277f66e34",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "68f5b9e8-bd61-4e05-a090-79b45dfd09f3",
+        "usage_date": "2023-09-07T16:20:05.435Z",
+        "usage_count": 15539,
+        "usage_duration": 95209,
+        "created_at": "2023-09-07T16:07:04.575Z",
+        "updated_at": "2023-09-08T06:54:04.101Z",
+        "skill_id": "4fc80b1d-acfa-4700-801c-f9921a2938ba",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "reservation": [
+      {
+        "id": "5ecd2c31-b3ee-4169-bd6e-1521c56def15",
+        "start_date": "2023-09-07T20:30:40.747Z",
+        "end_date": "2023-09-08T00:16:16.942Z",
+        "status": "Pending",
+        "created_at": "2023-09-07T19:46:32.237Z",
+        "updated_at": "2023-09-07T12:26:47.195Z",
+        "skill_id": "b711d7b8-2441-4678-a400-df5a1bccdb1a",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "4498a9e1-1b89-4323-97cb-e40380c0fc96",
+        "start_date": "2023-09-08T06:55:29.493Z",
+        "end_date": "2023-09-08T06:57:03.486Z",
+        "status": "Confirmed",
+        "created_at": "2023-09-07T13:51:34.685Z",
+        "updated_at": "2023-09-07T14:34:38.094Z",
+        "skill_id": "4fc80b1d-acfa-4700-801c-f9921a2938ba",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "4c7726fc-ec76-4214-a1cc-026234d1b401",
+        "start_date": "2023-09-07T12:07:45.796Z",
+        "end_date": "2023-09-07T19:35:00.094Z",
+        "status": "Cancelled",
+        "created_at": "2023-09-08T02:23:42.607Z",
+        "updated_at": "2023-09-08T04:02:57.420Z",
+        "skill_id": "4fc80b1d-acfa-4700-801c-f9921a2938ba",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "10d0f16b-19d3-445e-95f4-c1d823bcd54e",
+        "start_date": "2023-09-07T20:39:53.988Z",
+        "end_date": "2023-09-08T07:19:59.758Z",
+        "status": "Completed",
+        "created_at": "2023-09-07T13:28:52.405Z",
+        "updated_at": "2023-09-08T09:28:47.493Z",
+        "skill_id": "95e6c2b0-149d-47cf-ad19-40a277f66e34",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "16db9fad-93bb-4acc-b049-dc444d7a29dd",
+        "start_date": "2023-09-07T17:57:48.985Z",
+        "end_date": "2023-09-08T02:37:12.754Z",
+        "status": "On Hold",
+        "created_at": "2023-09-08T04:28:44.427Z",
+        "updated_at": "2023-09-07T17:50:10.463Z",
+        "skill_id": "b711d7b8-2441-4678-a400-df5a1bccdb1a",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "performance_assessment": [
+      {
+        "id": "d020d945-5339-4c8b-9821-7735fb503ec4",
+        "assessment_date": "2023-09-07T22:53:27.193Z",
+        "rating": 34188,
+        "feedback": "Excellent performance, highly recommended",
+        "created_at": "2023-09-07T23:02:44.824Z",
+        "updated_at": "2023-09-08T08:47:14.072Z",
+        "skill_id": "7e722c3f-c2b9-4763-a645-e690a1e35fdf",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "505027fb-7a5c-4d5d-8986-c01210d70643",
+        "assessment_date": "2023-09-07T17:02:51.315Z",
+        "rating": 80399,
+        "feedback": "Great work, exceeded expectations",
+        "created_at": "2023-09-07T16:24:46.725Z",
+        "updated_at": "2023-09-07T21:19:48.431Z",
+        "skill_id": "b711d7b8-2441-4678-a400-df5a1bccdb1a",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "09faf6c3-857c-4c82-acff-2546b43d1b47",
+        "assessment_date": "2023-09-07T21:59:38.913Z",
+        "rating": 31461,
+        "feedback": "Good job, met all requirements",
+        "created_at": "2023-09-08T09:54:04.768Z",
+        "updated_at": "2023-09-07T21:15:02.301Z",
+        "skill_id": "c2bfa89c-5085-4395-90a6-73f9d27000eb",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "0ccc5b97-5c68-4811-a543-835df15b7fff",
+        "assessment_date": "2023-09-07T14:15:07.859Z",
+        "rating": 30293,
+        "feedback": "Satisfactory performance, room for improvement",
+        "created_at": "2023-09-08T06:10:57.840Z",
+        "updated_at": "2023-09-07T19:12:04.619Z",
+        "skill_id": "95e6c2b0-149d-47cf-ad19-40a277f66e34",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "91508200-92e2-4253-98cb-07c2e6f29cfd",
+        "assessment_date": "2023-09-08T08:57:51.388Z",
+        "rating": 42848,
+        "feedback": "Below expectations, needs improvement",
+        "created_at": "2023-09-08T02:20:39.576Z",
+        "updated_at": "2023-09-07T15:40:38.026Z",
+        "skill_id": "4fc80b1d-acfa-4700-801c-f9921a2938ba",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "61a9d354-1d8c-4fe0-b5ca-dab8107899af",
+        "email": "Leo_Rempel0@gmail.com",
+        "firstName": "Courtney",
+        "lastName": "Wuckert",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/29604827",
+        "tenantId": null
+      },
+      {
+        "reference": "1ef80d47-f272-4e43-a166-ac553848725a",
+        "email": "Kristin84@gmail.com",
+        "firstName": "Lottie",
+        "lastName": "Emmerich",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/637.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "6bf4160e-1c66-4f03-ab31-f05507d33c82",
+        "email": "Alexander_Wiza@hotmail.com",
+        "firstName": "Eleazar",
+        "lastName": "Stracke",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/31.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "b5be0aa2-b6bf-4aa6-aac2-d70fb09941e6",
+        "email": "Santa_Raynor67@hotmail.com",
+        "firstName": "Gust",
+        "lastName": "Fahey",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/3253100",
+        "tenantId": null
+      },
+      {
+        "reference": "720b5a83-6999-4c75-b9f2-cd1ae00b9e4d",
+        "email": "Addie.Torp50@gmail.com",
+        "firstName": "Teagan",
+        "lastName": "Stokes",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/48483327",
+        "tenantId": null
+      }
+    ]
+  },
+  {
+    "skill": [
+      {
+        "id": "a675c520-d04c-4a17-b48f-24823536b77b",
+        "name": "Programming",
+        "description": "Expert in programming languages",
+        "demand": 1499,
+        "performance": 73703,
+        "usage_count": 45391,
+        "created_at": "2023-09-07T14:07:06.810Z",
+        "updated_at": "2023-09-08T06:56:23.520Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "8f91467a-e314-4f49-b3fa-7254860808a4",
+        "name": "Design",
+        "description": "Creative design skills",
+        "demand": 1398,
+        "performance": 83803,
+        "usage_count": 13543,
+        "created_at": "2023-09-08T03:15:16.255Z",
+        "updated_at": "2023-09-07T21:19:13.831Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "42aa2038-b6e2-420c-8f20-03593db82dd1",
+        "name": "Marketing",
+        "description": "Digital marketing expertise",
+        "demand": 30977,
+        "performance": 58605,
+        "usage_count": 87328,
+        "created_at": "2023-09-07T21:24:25.795Z",
+        "updated_at": "2023-09-08T07:58:07.420Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "a4a98876-6fc3-4206-805b-e77106598ff3",
+        "name": "Photography",
+        "description": "Professional photography skills",
+        "demand": 89472,
+        "performance": 94919,
+        "usage_count": 63412,
+        "created_at": "2023-09-08T05:08:24.056Z",
+        "updated_at": "2023-09-07T21:01:09.755Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "2787e852-07db-44d3-9711-5e733a8e38c4",
+        "name": "Writing",
+        "description": "Excellent writing abilities",
+        "demand": 90805,
+        "performance": 92478,
+        "usage_count": 56437,
+        "created_at": "2023-09-07T14:40:21.695Z",
+        "updated_at": "2023-09-07T19:25:37.194Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "usage_tracking": [
+      {
+        "id": "f9c5fe3a-9d37-4caf-80d6-62b53f69839a",
+        "usage_date": "2023-09-08T02:13:04.009Z",
+        "usage_count": 32903,
+        "usage_duration": 16387,
+        "created_at": "2023-09-07T13:41:51.960Z",
+        "updated_at": "2023-09-07T12:24:16.222Z",
+        "skill_id": "8f91467a-e314-4f49-b3fa-7254860808a4",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "5ec5f509-0d09-4977-9eaa-fc458edf48e2",
+        "usage_date": "2023-09-07T16:15:31.332Z",
+        "usage_count": 84185,
+        "usage_duration": 55274,
+        "created_at": "2023-09-08T11:11:31.024Z",
+        "updated_at": "2023-09-08T03:44:49.386Z",
+        "skill_id": "2787e852-07db-44d3-9711-5e733a8e38c4",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "bd76ef4a-acbe-4988-8eac-798d07fde4cf",
+        "usage_date": "2023-09-08T06:58:19.616Z",
+        "usage_count": 19743,
+        "usage_duration": 65487,
+        "created_at": "2023-09-07T20:43:46.479Z",
+        "updated_at": "2023-09-07T19:17:34.939Z",
+        "skill_id": "2787e852-07db-44d3-9711-5e733a8e38c4",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "41e38d8a-44c6-447e-a9a0-3e1926ad6b44",
+        "usage_date": "2023-09-07T19:29:37.702Z",
+        "usage_count": 97803,
+        "usage_duration": 45912,
+        "created_at": "2023-09-08T04:48:48.482Z",
+        "updated_at": "2023-09-08T07:15:10.657Z",
+        "skill_id": "42aa2038-b6e2-420c-8f20-03593db82dd1",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "03d145f0-7b03-41b7-a69a-4fa2817a8c6a",
+        "usage_date": "2023-09-08T08:56:53.819Z",
+        "usage_count": 51007,
+        "usage_duration": 28130,
+        "created_at": "2023-09-07T13:13:06.173Z",
+        "updated_at": "2023-09-07T22:04:10.642Z",
+        "skill_id": "2787e852-07db-44d3-9711-5e733a8e38c4",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "reservation": [
+      {
+        "id": "a6f945d0-b624-44d4-95d6-0d2f1b0a747b",
+        "start_date": "2023-09-07T17:12:59.583Z",
+        "end_date": "2023-09-07T17:00:31.411Z",
+        "status": "Confirmed",
+        "created_at": "2023-09-07T19:08:00.721Z",
+        "updated_at": "2023-09-08T04:33:21.740Z",
+        "skill_id": "a4a98876-6fc3-4206-805b-e77106598ff3",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "ee0bf2e7-770e-4dd0-b462-6c7c23f3beef",
+        "start_date": "2023-09-07T17:23:17.292Z",
+        "end_date": "2023-09-07T12:53:38.908Z",
+        "status": "Pending",
+        "created_at": "2023-09-07T20:44:45.047Z",
+        "updated_at": "2023-09-07T17:23:49.377Z",
+        "skill_id": "8f91467a-e314-4f49-b3fa-7254860808a4",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "5729b68e-709d-46a7-9c02-f5ad1757f370",
+        "start_date": "2023-09-07T21:40:35.336Z",
+        "end_date": "2023-09-08T09:24:57.888Z",
+        "status": "Cancelled",
+        "created_at": "2023-09-08T06:54:28.498Z",
+        "updated_at": "2023-09-08T06:31:54.548Z",
+        "skill_id": "a675c520-d04c-4a17-b48f-24823536b77b",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "d04930e7-1b2f-41e4-90b2-1f461223e3af",
+        "start_date": "2023-09-08T02:05:25.370Z",
+        "end_date": "2023-09-08T00:52:03.414Z",
+        "status": "Completed",
+        "created_at": "2023-09-07T11:28:35.267Z",
+        "updated_at": "2023-09-08T05:56:19.262Z",
+        "skill_id": "8f91467a-e314-4f49-b3fa-7254860808a4",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "ac4859a4-1ed8-47bb-b07f-318cb3c2b321",
+        "start_date": "2023-09-07T23:29:53.086Z",
+        "end_date": "2023-09-08T08:33:10.939Z",
+        "status": "On Hold",
+        "created_at": "2023-09-07T20:18:21.902Z",
+        "updated_at": "2023-09-08T04:06:33.830Z",
+        "skill_id": "a4a98876-6fc3-4206-805b-e77106598ff3",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "performance_assessment": [
+      {
+        "id": "4520fadf-69d3-4a3c-b679-f710873b1dd7",
+        "assessment_date": "2023-09-08T03:36:46.583Z",
+        "rating": 83435,
+        "feedback": "Highly satisfied with the performance",
+        "created_at": "2023-09-07T11:27:57.832Z",
+        "updated_at": "2023-09-07T17:27:19.596Z",
+        "skill_id": "2787e852-07db-44d3-9711-5e733a8e38c4",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "045c722a-de61-4d3d-8925-5c5861c5abfa",
+        "assessment_date": "2023-09-08T10:06:06.229Z",
+        "rating": 83584,
+        "feedback": "Impressed with the quality of work",
+        "created_at": "2023-09-08T05:22:10.311Z",
+        "updated_at": "2023-09-07T18:51:02.838Z",
+        "skill_id": "a4a98876-6fc3-4206-805b-e77106598ff3",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "298ec914-0199-4b4b-99d9-b5501d9363ab",
+        "assessment_date": "2023-09-08T05:16:35.810Z",
+        "rating": 21982,
+        "feedback": "Great attention to detail",
+        "created_at": "2023-09-08T05:28:15.754Z",
+        "updated_at": "2023-09-08T03:10:36.503Z",
+        "skill_id": "2787e852-07db-44d3-9711-5e733a8e38c4",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "d6cae047-a32a-4aa3-a283-c30277eb2a50",
+        "assessment_date": "2023-09-07T21:10:08.515Z",
+        "rating": 45673,
+        "feedback": "Excellent communication skills",
+        "created_at": "2023-09-08T09:32:10.746Z",
+        "updated_at": "2023-09-07T12:25:17.409Z",
+        "skill_id": "2787e852-07db-44d3-9711-5e733a8e38c4",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "7f9424db-95a5-4e35-a51f-9764d2b3af13",
+        "assessment_date": "2023-09-07T12:06:05.605Z",
+        "rating": 89907,
+        "feedback": "Delivered exceptional results",
+        "created_at": "2023-09-08T11:14:53.679Z",
+        "updated_at": "2023-09-08T06:05:13.098Z",
+        "skill_id": "42aa2038-b6e2-420c-8f20-03593db82dd1",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "6604801c-a03d-475f-af1b-fa7197722282",
+        "email": "Jeffery49@hotmail.com",
+        "firstName": "Monte",
+        "lastName": "Hegmann",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/75.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "fedc6c55-be3d-4bb8-a653-d5c419607cb7",
+        "email": "Reuben_Harvey@yahoo.com",
+        "firstName": "Jeremy",
+        "lastName": "Kunde",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/989.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "2ce485ac-db4e-4e94-89fa-761144e10420",
+        "email": "Felton.Franecki@gmail.com",
+        "firstName": "Ivah",
+        "lastName": "Huels",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/906.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "2fb5375f-6c66-4696-9bb8-ccd2745d0f78",
+        "email": "Allison_Abshire@yahoo.com",
+        "firstName": "Lempi",
+        "lastName": "Bernier",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/962.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "14fa49b3-8085-4c96-9600-4075c7a37cab",
+        "email": "Sophia.Bogisich@yahoo.com",
+        "firstName": "Lou",
+        "lastName": "Walsh",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/6021562",
+        "tenantId": null
+      }
+    ]
+  },
+  {
+    "skill": [
+      {
+        "id": "76c2901e-c54c-4793-af58-c22f6cc74c69",
+        "name": "Programming",
+        "description": "Expert in programming languages",
+        "demand": 65679,
+        "performance": 22592,
+        "usage_count": 90350,
+        "created_at": "2023-09-08T00:22:22.275Z",
+        "updated_at": "2023-09-08T02:56:39.706Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "4f5c6629-3f76-47be-8277-da8510c16e53",
+        "name": "Design",
+        "description": "Creative design skills",
+        "demand": 83521,
+        "performance": 83310,
+        "usage_count": 20915,
+        "created_at": "2023-09-08T06:48:39.133Z",
+        "updated_at": "2023-09-07T15:10:00.330Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "1ed1c1a7-ddac-40c7-8103-1396c19bccfb",
+        "name": "Marketing",
+        "description": "Digital marketing expertise",
+        "demand": 59835,
+        "performance": 38581,
+        "usage_count": 98052,
+        "created_at": "2023-09-07T16:29:49.490Z",
+        "updated_at": "2023-09-07T21:14:10.420Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "94549a13-6f03-4b4e-9ea0-3723b4cbdbfe",
+        "name": "Writing",
+        "description": "Professional writing skills",
+        "demand": 25501,
+        "performance": 33438,
+        "usage_count": 33934,
+        "created_at": "2023-09-08T02:27:47.430Z",
+        "updated_at": "2023-09-08T02:04:17.346Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "298b6c3e-e10b-4abb-8aa0-2ebf35388b5c",
+        "name": "Photography",
+        "description": "Photography techniques",
+        "demand": 1876,
+        "performance": 93210,
+        "usage_count": 85160,
+        "created_at": "2023-09-08T03:12:29.097Z",
+        "updated_at": "2023-09-07T16:17:41.849Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "usage_tracking": [
+      {
+        "id": "cc30389b-e439-4f9b-a39c-153262f46c80",
+        "usage_date": "2023-09-08T08:54:39.847Z",
+        "usage_count": 40033,
+        "usage_duration": 45877,
+        "created_at": "2023-09-07T21:52:47.096Z",
+        "updated_at": "2023-09-07T17:55:35.387Z",
+        "skill_id": "94549a13-6f03-4b4e-9ea0-3723b4cbdbfe",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "50e18aae-da69-43ba-86b3-f905699bf3ad",
+        "usage_date": "2023-09-08T07:33:09.647Z",
+        "usage_count": 30543,
+        "usage_duration": 46305,
+        "created_at": "2023-09-08T03:48:06.115Z",
+        "updated_at": "2023-09-07T14:16:04.499Z",
+        "skill_id": "94549a13-6f03-4b4e-9ea0-3723b4cbdbfe",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "378cd144-51bb-460f-ab32-bd3db74027af",
+        "usage_date": "2023-09-08T09:28:59.900Z",
+        "usage_count": 98081,
+        "usage_duration": 55824,
+        "created_at": "2023-09-08T02:11:13.325Z",
+        "updated_at": "2023-09-08T09:44:32.334Z",
+        "skill_id": "94549a13-6f03-4b4e-9ea0-3723b4cbdbfe",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "2d8c64bf-1f66-4685-9b47-80b72d763bc2",
+        "usage_date": "2023-09-07T22:35:00.985Z",
+        "usage_count": 63761,
+        "usage_duration": 34889,
+        "created_at": "2023-09-08T03:13:12.279Z",
+        "updated_at": "2023-09-08T11:13:10.890Z",
+        "skill_id": "1ed1c1a7-ddac-40c7-8103-1396c19bccfb",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "ea18aa19-7dc5-4d11-a370-dab7931b9898",
+        "usage_date": "2023-09-08T03:22:15.329Z",
+        "usage_count": 90615,
+        "usage_duration": 81543,
+        "created_at": "2023-09-07T17:21:52.059Z",
+        "updated_at": "2023-09-07T22:52:56.946Z",
+        "skill_id": "4f5c6629-3f76-47be-8277-da8510c16e53",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "reservation": [
+      {
+        "id": "da3d7960-ba8b-4636-8d8e-ca9bd7fe97df",
+        "start_date": "2023-09-07T19:18:00.124Z",
+        "end_date": "2023-09-08T10:48:18.129Z",
+        "status": "Pending",
+        "created_at": "2023-09-08T07:33:35.382Z",
+        "updated_at": "2023-09-07T14:24:34.051Z",
+        "skill_id": "76c2901e-c54c-4793-af58-c22f6cc74c69",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "8a8ec141-316b-4534-ac20-b9d41eda0644",
+        "start_date": "2023-09-07T21:04:17.578Z",
+        "end_date": "2023-09-07T20:37:48.116Z",
+        "status": "Confirmed",
+        "created_at": "2023-09-07T14:36:37.801Z",
+        "updated_at": "2023-09-07T19:12:01.793Z",
+        "skill_id": "1ed1c1a7-ddac-40c7-8103-1396c19bccfb",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "c4de6a64-ce25-4c15-b059-19779898a01b",
+        "start_date": "2023-09-08T06:45:01.775Z",
+        "end_date": "2023-09-07T15:20:02.643Z",
+        "status": "Cancelled",
+        "created_at": "2023-09-07T14:12:21.692Z",
+        "updated_at": "2023-09-08T01:14:12.928Z",
+        "skill_id": "1ed1c1a7-ddac-40c7-8103-1396c19bccfb",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "d4d79184-a2d0-4787-9bad-6371f0b6f659",
+        "start_date": "2023-09-08T03:03:48.712Z",
+        "end_date": "2023-09-07T19:50:21.153Z",
+        "status": "Completed",
+        "created_at": "2023-09-07T15:28:55.409Z",
+        "updated_at": "2023-09-07T22:07:11.702Z",
+        "skill_id": "76c2901e-c54c-4793-af58-c22f6cc74c69",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "40ca3c9e-9de5-495d-ac69-33a21f8c2553",
+        "start_date": "2023-09-08T02:27:35.172Z",
+        "end_date": "2023-09-07T14:19:24.621Z",
+        "status": "In Progress",
+        "created_at": "2023-09-08T02:38:06.945Z",
+        "updated_at": "2023-09-07T13:29:54.230Z",
+        "skill_id": "76c2901e-c54c-4793-af58-c22f6cc74c69",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "performance_assessment": [
+      {
+        "id": "1cb11436-a2c5-4bd6-b80d-0a4eb2e3ec58",
+        "assessment_date": "2023-09-08T05:51:10.787Z",
+        "rating": 87775,
+        "feedback": "Excellent work!",
+        "created_at": "2023-09-07T22:12:03.396Z",
+        "updated_at": "2023-09-08T06:59:00.515Z",
+        "skill_id": "1ed1c1a7-ddac-40c7-8103-1396c19bccfb",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "e3bde4f8-5407-4e4c-8eb7-6812072c99aa",
+        "assessment_date": "2023-09-08T08:04:12.514Z",
+        "rating": 24118,
+        "feedback": "Great performance!",
+        "created_at": "2023-09-08T03:50:56.467Z",
+        "updated_at": "2023-09-07T19:19:20.755Z",
+        "skill_id": "4f5c6629-3f76-47be-8277-da8510c16e53",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "c348f09b-4f38-47e9-ab75-00828a814004",
+        "assessment_date": "2023-09-07T16:48:10.455Z",
+        "rating": 71874,
+        "feedback": "Very satisfied with the results",
+        "created_at": "2023-09-07T19:11:10.514Z",
+        "updated_at": "2023-09-07T15:18:59.719Z",
+        "skill_id": "1ed1c1a7-ddac-40c7-8103-1396c19bccfb",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "b11f323a-d683-4bbc-920c-5f1296790a68",
+        "assessment_date": "2023-09-07T23:50:16.837Z",
+        "rating": 10947,
+        "feedback": "Impressive skills demonstrated",
+        "created_at": "2023-09-08T07:24:21.009Z",
+        "updated_at": "2023-09-07T12:15:31.858Z",
+        "skill_id": "76c2901e-c54c-4793-af58-c22f6cc74c69",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "6169e140-d5e9-4801-9415-4db6bbde7d58",
+        "assessment_date": "2023-09-08T01:20:45.504Z",
+        "rating": 52422,
+        "feedback": "Highly recommended",
+        "created_at": "2023-09-07T11:16:35.568Z",
+        "updated_at": "2023-09-07T17:10:19.970Z",
+        "skill_id": "76c2901e-c54c-4793-af58-c22f6cc74c69",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "6498bc4e-70a1-4828-af1d-7f01eb98851c",
+        "email": "Alivia11@yahoo.com",
+        "firstName": "Gino",
+        "lastName": "Bernhard",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/996.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "c9fc8bba-8e55-481c-8b4f-4aefd835325c",
+        "email": "Paige.Herman@yahoo.com",
+        "firstName": "Heloise",
+        "lastName": "Lubowitz",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/80.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "d39f4050-b634-4074-905a-482af4a72669",
+        "email": "Lula.Bauch27@yahoo.com",
+        "firstName": "Bernice",
+        "lastName": "Fahey",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/1050.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "86523900-92aa-4597-abbc-1a577e77169f",
+        "email": "Adan_Stiedemann@hotmail.com",
+        "firstName": "Isaias",
+        "lastName": "Sanford",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/17841956",
+        "tenantId": null
+      },
+      {
+        "reference": "de78acd6-dbd7-4686-b3bc-dab6e4cb7e8c",
+        "email": "Bret.Crooks-Heller27@gmail.com",
+        "firstName": "Cecile",
+        "lastName": "Hoppe",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/71099518",
+        "tenantId": null
+      }
+    ]
+  },
+  {
+    "skill": [
+      {
+        "id": "0148021c-53e6-44eb-9abb-993faade653b",
+        "name": "Programming",
+        "description": "Experienced in various programming languages",
+        "demand": 2482,
+        "performance": 53386,
+        "usage_count": 84709,
+        "created_at": "2023-09-08T09:05:02.698Z",
+        "updated_at": "2023-09-07T11:35:45.472Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "6e85f710-7b5d-4b13-bd13-892e7edde457",
+        "name": "Design",
+        "description": "Creative and innovative design skills",
+        "demand": 6614,
+        "performance": 22840,
+        "usage_count": 2874,
+        "created_at": "2023-09-08T02:10:35.842Z",
+        "updated_at": "2023-09-08T10:12:41.099Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "8053770a-7f52-4199-8554-6d9ffd6f1880",
+        "name": "Marketing",
+        "description": "Expert in digital marketing strategies",
+        "demand": 10099,
+        "performance": 76523,
+        "usage_count": 28699,
+        "created_at": "2023-09-07T14:52:50.099Z",
+        "updated_at": "2023-09-07T16:11:05.016Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "8f88126e-74b7-432b-9240-a153f84ae98a",
+        "name": "Writing",
+        "description": "Skilled in content writing and editing",
+        "demand": 59865,
+        "performance": 28217,
+        "usage_count": 79349,
+        "created_at": "2023-09-07T17:32:58.633Z",
+        "updated_at": "2023-09-07T13:20:47.509Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "34f5b989-3834-41af-ad40-ad7741f12a68",
+        "name": "Photography",
+        "description": "Proficient in capturing stunning photographs",
+        "demand": 4434,
+        "performance": 82582,
+        "usage_count": 39072,
+        "created_at": "2023-09-07T14:59:05.681Z",
+        "updated_at": "2023-09-08T03:27:38.670Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "usage_tracking": [
+      {
+        "id": "b7faba5a-7bad-4ed6-b42e-96986f35b07f",
+        "usage_date": "2023-09-08T10:14:16.399Z",
+        "usage_count": 25597,
+        "usage_duration": 81962,
+        "created_at": "2023-09-08T01:53:02.636Z",
+        "updated_at": "2023-09-08T05:49:45.956Z",
+        "skill_id": "0148021c-53e6-44eb-9abb-993faade653b",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "393ce4a6-2661-4116-b73a-abc33f09765f",
+        "usage_date": "2023-09-08T10:58:50.474Z",
+        "usage_count": 57725,
+        "usage_duration": 72373,
+        "created_at": "2023-09-07T16:53:34.685Z",
+        "updated_at": "2023-09-08T10:52:42.386Z",
+        "skill_id": "8f88126e-74b7-432b-9240-a153f84ae98a",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "0a825634-a05d-45db-bafe-be7161e0bf7c",
+        "usage_date": "2023-09-08T00:39:13.904Z",
+        "usage_count": 19442,
+        "usage_duration": 94945,
+        "created_at": "2023-09-07T15:10:04.229Z",
+        "updated_at": "2023-09-08T01:19:39.942Z",
+        "skill_id": "34f5b989-3834-41af-ad40-ad7741f12a68",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "fbd85413-0350-4fd0-b762-c15328fe1943",
+        "usage_date": "2023-09-08T00:30:32.119Z",
+        "usage_count": 37518,
+        "usage_duration": 54098,
+        "created_at": "2023-09-08T10:32:20.091Z",
+        "updated_at": "2023-09-07T23:58:32.732Z",
+        "skill_id": "0148021c-53e6-44eb-9abb-993faade653b",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "99a9b362-b7ab-4be6-992a-b81fa504f24f",
+        "usage_date": "2023-09-07T20:53:56.457Z",
+        "usage_count": 77406,
+        "usage_duration": 46085,
+        "created_at": "2023-09-07T20:49:06.153Z",
+        "updated_at": "2023-09-08T04:19:39.815Z",
+        "skill_id": "8f88126e-74b7-432b-9240-a153f84ae98a",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "reservation": [
+      {
+        "id": "5fac8511-6222-4895-8376-550a764e0e4f",
+        "start_date": "2023-09-07T14:01:13.340Z",
+        "end_date": "2023-09-07T18:03:44.770Z",
+        "status": "Pending",
+        "created_at": "2023-09-08T00:27:29.942Z",
+        "updated_at": "2023-09-07T13:27:57.777Z",
+        "skill_id": "34f5b989-3834-41af-ad40-ad7741f12a68",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "14a36fb1-1340-4170-b8fe-dfc4a415cb48",
+        "start_date": "2023-09-08T09:14:25.477Z",
+        "end_date": "2023-09-07T21:10:14.656Z",
+        "status": "Confirmed",
+        "created_at": "2023-09-07T20:39:29.304Z",
+        "updated_at": "2023-09-08T00:02:03.677Z",
+        "skill_id": "0148021c-53e6-44eb-9abb-993faade653b",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "1661d6fe-c824-40f0-a192-5799e276b9c5",
+        "start_date": "2023-09-07T13:54:54.631Z",
+        "end_date": "2023-09-08T08:23:23.914Z",
+        "status": "Cancelled",
+        "created_at": "2023-09-08T00:56:18.148Z",
+        "updated_at": "2023-09-08T02:16:00.660Z",
+        "skill_id": "34f5b989-3834-41af-ad40-ad7741f12a68",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "4039e557-e0b8-4255-9aff-8d7df6ca212d",
+        "start_date": "2023-09-08T00:12:16.246Z",
+        "end_date": "2023-09-08T05:25:50.543Z",
+        "status": "Completed",
+        "created_at": "2023-09-07T13:26:53.092Z",
+        "updated_at": "2023-09-07T14:10:20.428Z",
+        "skill_id": "8053770a-7f52-4199-8554-6d9ffd6f1880",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "ddd022d8-7260-42ff-923b-f73199a8e4a8",
+        "start_date": "2023-09-07T13:12:10.503Z",
+        "end_date": "2023-09-08T02:30:19.798Z",
+        "status": "In Progress",
+        "created_at": "2023-09-07T20:10:12.618Z",
+        "updated_at": "2023-09-07T17:50:57.881Z",
+        "skill_id": "0148021c-53e6-44eb-9abb-993faade653b",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "performance_assessment": [
+      {
+        "id": "ab1a6173-62d2-4e0f-b725-0289aa1a23a9",
+        "assessment_date": "2023-09-07T20:15:33.596Z",
+        "rating": 86283,
+        "feedback": "Excellent performance and great teamwork",
+        "created_at": "2023-09-08T06:27:20.199Z",
+        "updated_at": "2023-09-08T04:47:45.029Z",
+        "skill_id": "6e85f710-7b5d-4b13-bd13-892e7edde457",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "175d9024-4edc-4e44-8dc6-634cb37693a1",
+        "assessment_date": "2023-09-08T08:28:41.858Z",
+        "rating": 22332,
+        "feedback": "Outstanding skills and dedication",
+        "created_at": "2023-09-08T10:52:06.344Z",
+        "updated_at": "2023-09-08T06:41:56.242Z",
+        "skill_id": "6e85f710-7b5d-4b13-bd13-892e7edde457",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "438354ef-fb62-4f38-9ad2-64bc38b367a5",
+        "assessment_date": "2023-09-07T14:40:49.170Z",
+        "rating": 40362,
+        "feedback": "Highly professional and efficient",
+        "created_at": "2023-09-08T10:22:28.010Z",
+        "updated_at": "2023-09-07T14:14:59.959Z",
+        "skill_id": "34f5b989-3834-41af-ad40-ad7741f12a68",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "9808ff8d-a010-45e9-87d9-0dab4333372e",
+        "assessment_date": "2023-09-07T23:09:16.338Z",
+        "rating": 23492,
+        "feedback": "Consistently delivers exceptional results",
+        "created_at": "2023-09-07T11:35:25.214Z",
+        "updated_at": "2023-09-08T02:13:27.601Z",
+        "skill_id": "34f5b989-3834-41af-ad40-ad7741f12a68",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "6ffda96e-bf62-4bf8-81f3-1b556b6124df",
+        "assessment_date": "2023-09-07T23:59:49.152Z",
+        "rating": 47735,
+        "feedback": "Strong problem-solving abilities",
+        "created_at": "2023-09-08T06:24:12.075Z",
+        "updated_at": "2023-09-08T06:39:21.060Z",
+        "skill_id": "8f88126e-74b7-432b-9240-a153f84ae98a",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "3063952a-f2d2-47a4-a07b-fc711b22a547",
+        "email": "Raphaelle80@yahoo.com",
+        "firstName": "Sven",
+        "lastName": "Schinner",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/900.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "ddfe95b9-b26a-4c17-95cf-1b75ac55651f",
+        "email": "Shannon49@hotmail.com",
+        "firstName": "Ignacio",
+        "lastName": "Rath",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/38896969",
+        "tenantId": null
+      },
+      {
+        "reference": "63e48824-dc48-4611-aa90-2f39b4d9fffc",
+        "email": "Bernard_Bernier@yahoo.com",
+        "firstName": "Leone",
+        "lastName": "Paucek",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/94201568",
+        "tenantId": null
+      },
+      {
+        "reference": "7ddc95c3-6210-4a2d-a96a-3378c34fa6ea",
+        "email": "Rodger5@hotmail.com",
+        "firstName": "Leonard",
+        "lastName": "Tremblay",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/62572163",
+        "tenantId": null
+      },
+      {
+        "reference": "9717b9a1-d3d2-4b71-91cc-1bbb145ec0af",
+        "email": "Isabel_Wyman50@yahoo.com",
+        "firstName": "Gerardo",
+        "lastName": "Hartmann",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/56408598",
+        "tenantId": null
+      }
+    ]
+  },
+  {
+    "skill": [
+      {
+        "id": "789a1c85-c0f7-4b5e-a8d7-a6d9db1902fc",
+        "name": "Programming",
+        "description": "Expert in programming languages",
+        "demand": 38792,
+        "performance": 56373,
+        "usage_count": 49682,
+        "created_at": "2023-09-08T03:07:11.641Z",
+        "updated_at": "2023-09-08T08:58:29.074Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "00892be3-f75a-46e7-aa0e-2b7490080853",
+        "name": "Design",
+        "description": "Creative design skills",
+        "demand": 89477,
+        "performance": 99537,
+        "usage_count": 89605,
+        "created_at": "2023-09-08T04:52:52.979Z",
+        "updated_at": "2023-09-07T13:03:59.654Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "fee9a5b2-160b-4b8f-a5fa-775778969c8d",
+        "name": "Marketing",
+        "description": "Digital marketing expertise",
+        "demand": 84409,
+        "performance": 48099,
+        "usage_count": 20497,
+        "created_at": "2023-09-07T23:41:36.424Z",
+        "updated_at": "2023-09-07T17:03:32.802Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "f39994f0-5399-49e8-9c36-5a36a8ad3186",
+        "name": "Writing",
+        "description": "Proficient in writing",
+        "demand": 90158,
+        "performance": 91261,
+        "usage_count": 38874,
+        "created_at": "2023-09-07T12:57:03.291Z",
+        "updated_at": "2023-09-07T18:19:10.554Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "9fdeb882-ddc1-4ef3-b06f-e0048e3698e0",
+        "name": "Photography",
+        "description": "Professional photography skills",
+        "demand": 37826,
+        "performance": 54030,
+        "usage_count": 29884,
+        "created_at": "2023-09-08T03:34:57.015Z",
+        "updated_at": "2023-09-08T02:54:17.490Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "usage_tracking": [
+      {
+        "id": "d524c5d7-5016-4601-83f1-d124204f79e6",
+        "usage_date": "2023-09-08T10:03:54.395Z",
+        "usage_count": 37188,
+        "usage_duration": 53405,
+        "created_at": "2023-09-07T13:30:00.972Z",
+        "updated_at": "2023-09-07T14:54:39.251Z",
+        "skill_id": "00892be3-f75a-46e7-aa0e-2b7490080853",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "6c619627-3672-4863-8d6a-dd07d7fb8287",
+        "usage_date": "2023-09-08T06:10:45.484Z",
+        "usage_count": 76390,
+        "usage_duration": 78281,
+        "created_at": "2023-09-08T00:39:01.672Z",
+        "updated_at": "2023-09-07T13:10:47.095Z",
+        "skill_id": "fee9a5b2-160b-4b8f-a5fa-775778969c8d",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "69f0d1e4-22ac-4521-aadf-42ea335d0286",
+        "usage_date": "2023-09-07T19:45:00.177Z",
+        "usage_count": 56068,
+        "usage_duration": 59439,
+        "created_at": "2023-09-07T22:04:41.159Z",
+        "updated_at": "2023-09-07T21:54:30.018Z",
+        "skill_id": "789a1c85-c0f7-4b5e-a8d7-a6d9db1902fc",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "f6af4067-c22f-4bd1-b491-986dce4ff853",
+        "usage_date": "2023-09-08T03:49:02.316Z",
+        "usage_count": 89445,
+        "usage_duration": 71236,
+        "created_at": "2023-09-07T17:57:57.434Z",
+        "updated_at": "2023-09-07T14:46:56.864Z",
+        "skill_id": "f39994f0-5399-49e8-9c36-5a36a8ad3186",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "e67e9e59-df8f-4047-86a6-1f6dbbf49d0d",
+        "usage_date": "2023-09-08T03:19:49.925Z",
+        "usage_count": 66814,
+        "usage_duration": 13902,
+        "created_at": "2023-09-08T07:05:26.336Z",
+        "updated_at": "2023-09-07T20:51:04.807Z",
+        "skill_id": "789a1c85-c0f7-4b5e-a8d7-a6d9db1902fc",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "reservation": [
+      {
+        "id": "bb1c583d-cc45-408f-916c-6eb47589a9b5",
+        "start_date": "2023-09-08T08:39:28.080Z",
+        "end_date": "2023-09-08T03:10:40.031Z",
+        "status": "Confirmed",
+        "created_at": "2023-09-08T02:26:02.667Z",
+        "updated_at": "2023-09-07T22:18:51.409Z",
+        "skill_id": "f39994f0-5399-49e8-9c36-5a36a8ad3186",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "7e9d578a-f85b-45f9-a301-afecf9208c19",
+        "start_date": "2023-09-08T00:29:03.970Z",
+        "end_date": "2023-09-08T10:19:21.456Z",
+        "status": "Pending",
+        "created_at": "2023-09-08T00:18:22.977Z",
+        "updated_at": "2023-09-08T08:50:22.704Z",
+        "skill_id": "f39994f0-5399-49e8-9c36-5a36a8ad3186",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "0960985d-7cd8-4b5a-9684-62aaa93bcdd6",
+        "start_date": "2023-09-07T13:44:15.536Z",
+        "end_date": "2023-09-07T11:27:24.140Z",
+        "status": "Cancelled",
+        "created_at": "2023-09-07T16:37:15.696Z",
+        "updated_at": "2023-09-08T09:36:22.349Z",
+        "skill_id": "789a1c85-c0f7-4b5e-a8d7-a6d9db1902fc",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "4f73ad6b-e57b-4b54-af93-044fd8a6d7b8",
+        "start_date": "2023-09-07T23:41:47.271Z",
+        "end_date": "2023-09-07T16:21:49.114Z",
+        "status": "Completed",
+        "created_at": "2023-09-08T02:48:48.310Z",
+        "updated_at": "2023-09-07T20:45:46.232Z",
+        "skill_id": "f39994f0-5399-49e8-9c36-5a36a8ad3186",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "dccdda74-0789-47ad-a368-ac29479f44b0",
+        "start_date": "2023-09-07T22:10:07.071Z",
+        "end_date": "2023-09-08T04:43:37.821Z",
+        "status": "Rescheduled",
+        "created_at": "2023-09-08T04:37:03.895Z",
+        "updated_at": "2023-09-08T05:46:42.380Z",
+        "skill_id": "789a1c85-c0f7-4b5e-a8d7-a6d9db1902fc",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "performance_assessment": [
+      {
+        "id": "a08107ad-1936-45ab-ad0b-693a7f76eadc",
+        "assessment_date": "2023-09-07T22:30:27.231Z",
+        "rating": 123,
+        "feedback": "Excellent performance",
+        "created_at": "2023-09-07T21:40:01.669Z",
+        "updated_at": "2023-09-08T02:56:12.467Z",
+        "skill_id": "fee9a5b2-160b-4b8f-a5fa-775778969c8d",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "a9d5df66-899d-4cdf-af5e-92d257b88f60",
+        "assessment_date": "2023-09-07T14:08:04.699Z",
+        "rating": 14137,
+        "feedback": "Great work ethic",
+        "created_at": "2023-09-07T22:32:34.476Z",
+        "updated_at": "2023-09-08T03:29:00.308Z",
+        "skill_id": "9fdeb882-ddc1-4ef3-b06f-e0048e3698e0",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "a8f42bfe-d006-4094-b6c6-2d41bb5d113e",
+        "assessment_date": "2023-09-07T16:41:48.035Z",
+        "rating": 5751,
+        "feedback": "Highly recommended",
+        "created_at": "2023-09-07T11:26:57.088Z",
+        "updated_at": "2023-09-08T08:45:27.120Z",
+        "skill_id": "f39994f0-5399-49e8-9c36-5a36a8ad3186",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "21951e8a-b8b7-4830-8496-098bf36b7149",
+        "assessment_date": "2023-09-07T16:05:46.628Z",
+        "rating": 17563,
+        "feedback": "Outstanding skills",
+        "created_at": "2023-09-08T00:24:53.478Z",
+        "updated_at": "2023-09-08T06:26:40.197Z",
+        "skill_id": "789a1c85-c0f7-4b5e-a8d7-a6d9db1902fc",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "94a5cf0b-63fd-4262-a9c6-1830afe1c986",
+        "assessment_date": "2023-09-07T16:23:04.247Z",
+        "rating": 74281,
+        "feedback": "Impressive results",
+        "created_at": "2023-09-07T15:11:53.471Z",
+        "updated_at": "2023-09-08T04:04:28.231Z",
+        "skill_id": "00892be3-f75a-46e7-aa0e-2b7490080853",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "70fadfbb-cd77-45cf-880d-391031371c2b",
+        "email": "Marisol_Mayer@gmail.com",
+        "firstName": "Lloyd",
+        "lastName": "Mann",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/87458802",
+        "tenantId": null
+      },
+      {
+        "reference": "2349e570-01b7-40f4-89c8-35520ce081bf",
+        "email": "Francis_Goyette47@gmail.com",
+        "firstName": "Horace",
+        "lastName": "Breitenberg",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/84018147",
+        "tenantId": null
+      },
+      {
+        "reference": "2e4d0b06-63e6-48cd-a255-c5a8bc15e137",
+        "email": "Madisyn.Paucek42@yahoo.com",
+        "firstName": "Kale",
+        "lastName": "Ortiz-Borer",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/815.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "66fd8d0a-579c-483e-a37d-18aa222887b9",
+        "email": "Rebekah46@hotmail.com",
+        "firstName": "Devyn",
+        "lastName": "Stoltenberg",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/18241708",
+        "tenantId": null
+      },
+      {
+        "reference": "d1c1f25f-4d96-448f-95d6-2dfc8ca47008",
+        "email": "Bernardo_Bartell@gmail.com",
+        "firstName": "Zella",
+        "lastName": "Hartmann",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/40739719",
+        "tenantId": null
+      }
+    ]
+  },
+  {
+    "skill": [
+      {
+        "id": "01e63d93-2926-4aad-82d2-ac80723afef5",
+        "name": "Programming",
+        "description": "Expert in programming languages",
+        "demand": 81355,
+        "performance": 44314,
+        "usage_count": 44587,
+        "created_at": "2023-09-07T13:34:47.511Z",
+        "updated_at": "2023-09-07T23:33:10.969Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "1a6ed8b2-6043-4168-8c62-62d4a994061a",
+        "name": "Design",
+        "description": "Creative design skills",
+        "demand": 79763,
+        "performance": 56480,
+        "usage_count": 78316,
+        "created_at": "2023-09-08T07:09:12.145Z",
+        "updated_at": "2023-09-07T12:48:59.892Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "acfebbf9-f863-4b02-a313-3f864d65b82c",
+        "name": "Marketing",
+        "description": "Digital marketing expertise",
+        "demand": 57348,
+        "performance": 45359,
+        "usage_count": 76151,
+        "created_at": "2023-09-07T16:06:56.691Z",
+        "updated_at": "2023-09-07T23:33:10.503Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "53c6a2b1-3228-4651-9e02-06455ee84cef",
+        "name": "Photography",
+        "description": "Professional photography skills",
+        "demand": 68970,
+        "performance": 19592,
+        "usage_count": 47130,
+        "created_at": "2023-09-07T11:20:05.343Z",
+        "updated_at": "2023-09-07T15:39:56.263Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "028f5ce1-7e28-422f-bf99-6ad9bdcd0d47",
+        "name": "Writing",
+        "description": "Excellent writing abilities",
+        "demand": 69166,
+        "performance": 88262,
+        "usage_count": 62761,
+        "created_at": "2023-09-08T06:33:42.510Z",
+        "updated_at": "2023-09-07T19:27:53.092Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "usage_tracking": [
+      {
+        "id": "3abf7d0f-ebff-4672-955b-2a0d95f4c058",
+        "usage_date": "2023-09-08T00:38:18.513Z",
+        "usage_count": 66728,
+        "usage_duration": 50892,
+        "created_at": "2023-09-08T01:56:44.071Z",
+        "updated_at": "2023-09-07T23:22:29.710Z",
+        "skill_id": "01e63d93-2926-4aad-82d2-ac80723afef5",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "4ff2a62e-d912-41ec-ad72-5a6d45c76f0a",
+        "usage_date": "2023-09-07T13:33:25.503Z",
+        "usage_count": 90511,
+        "usage_duration": 9371,
+        "created_at": "2023-09-08T06:31:05.325Z",
+        "updated_at": "2023-09-08T00:04:16.682Z",
+        "skill_id": "53c6a2b1-3228-4651-9e02-06455ee84cef",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "9ddae138-6fe8-4364-a6ba-e6804c46516f",
+        "usage_date": "2023-09-07T17:35:45.012Z",
+        "usage_count": 14739,
+        "usage_duration": 38646,
+        "created_at": "2023-09-07T22:09:46.928Z",
+        "updated_at": "2023-09-07T20:48:57.167Z",
+        "skill_id": "028f5ce1-7e28-422f-bf99-6ad9bdcd0d47",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "36902205-6792-4af1-bcff-efa8897c9d19",
+        "usage_date": "2023-09-08T02:03:07.619Z",
+        "usage_count": 64730,
+        "usage_duration": 20655,
+        "created_at": "2023-09-07T21:09:25.621Z",
+        "updated_at": "2023-09-07T14:51:31.756Z",
+        "skill_id": "53c6a2b1-3228-4651-9e02-06455ee84cef",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "38f4e5e2-4832-44b0-8807-3611032cbde4",
+        "usage_date": "2023-09-07T22:55:07.430Z",
+        "usage_count": 13488,
+        "usage_duration": 4734,
+        "created_at": "2023-09-07T15:24:14.296Z",
+        "updated_at": "2023-09-07T13:55:14.248Z",
+        "skill_id": "028f5ce1-7e28-422f-bf99-6ad9bdcd0d47",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "reservation": [
+      {
+        "id": "5dd85534-d80c-41a6-99e3-29f9ae0d7204",
+        "start_date": "2023-09-07T22:53:24.723Z",
+        "end_date": "2023-09-07T16:44:08.488Z",
+        "status": "Pending",
+        "created_at": "2023-09-08T03:10:10.348Z",
+        "updated_at": "2023-09-08T04:43:43.898Z",
+        "skill_id": "53c6a2b1-3228-4651-9e02-06455ee84cef",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "ca904cda-3edf-4d18-b5ad-cbdc46c10abc",
+        "start_date": "2023-09-08T10:22:40.036Z",
+        "end_date": "2023-09-08T08:05:54.818Z",
+        "status": "Confirmed",
+        "created_at": "2023-09-07T18:26:28.704Z",
+        "updated_at": "2023-09-07T18:45:55.372Z",
+        "skill_id": "53c6a2b1-3228-4651-9e02-06455ee84cef",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "17bd4060-355b-4232-b7d2-510b03ee20d0",
+        "start_date": "2023-09-08T05:20:06.275Z",
+        "end_date": "2023-09-07T12:05:30.671Z",
+        "status": "Cancelled",
+        "created_at": "2023-09-07T17:02:06.205Z",
+        "updated_at": "2023-09-07T20:59:01.756Z",
+        "skill_id": "01e63d93-2926-4aad-82d2-ac80723afef5",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "040b2b53-32aa-4e00-9cff-4b501c078674",
+        "start_date": "2023-09-07T19:07:46.733Z",
+        "end_date": "2023-09-07T12:53:51.140Z",
+        "status": "Completed",
+        "created_at": "2023-09-07T21:28:59.666Z",
+        "updated_at": "2023-09-08T04:30:28.058Z",
+        "skill_id": "acfebbf9-f863-4b02-a313-3f864d65b82c",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "3f9d0a92-b079-4758-9b84-20dc242b6999",
+        "start_date": "2023-09-07T21:42:24.838Z",
+        "end_date": "2023-09-07T21:03:40.492Z",
+        "status": "On hold",
+        "created_at": "2023-09-07T16:49:17.910Z",
+        "updated_at": "2023-09-08T09:45:53.466Z",
+        "skill_id": "028f5ce1-7e28-422f-bf99-6ad9bdcd0d47",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "performance_assessment": [
+      {
+        "id": "d7e03d18-da15-481b-9ecd-52b8bc42b171",
+        "assessment_date": "2023-09-08T05:03:45.715Z",
+        "rating": 64533,
+        "feedback": "Highly skilled and efficient",
+        "created_at": "2023-09-07T12:21:02.777Z",
+        "updated_at": "2023-09-08T00:40:02.546Z",
+        "skill_id": "028f5ce1-7e28-422f-bf99-6ad9bdcd0d47",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "a53dde70-a900-4568-b266-7cd6a33a5cf3",
+        "assessment_date": "2023-09-08T11:04:29.027Z",
+        "rating": 47548,
+        "feedback": "Great attention to detail",
+        "created_at": "2023-09-08T03:53:18.727Z",
+        "updated_at": "2023-09-08T05:25:38.242Z",
+        "skill_id": "1a6ed8b2-6043-4168-8c62-62d4a994061a",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "4f4ccd2e-3459-4fab-9cfe-5ab3ef41e106",
+        "assessment_date": "2023-09-07T11:21:36.142Z",
+        "rating": 99020,
+        "feedback": "Excellent communication",
+        "created_at": "2023-09-07T19:53:45.459Z",
+        "updated_at": "2023-09-08T10:15:47.428Z",
+        "skill_id": "53c6a2b1-3228-4651-9e02-06455ee84cef",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "9f74f9e8-6e77-4653-8179-ba2af1c58fdb",
+        "assessment_date": "2023-09-07T11:45:45.155Z",
+        "rating": 97571,
+        "feedback": "Delivered exceptional results",
+        "created_at": "2023-09-07T12:34:08.421Z",
+        "updated_at": "2023-09-08T04:47:31.887Z",
+        "skill_id": "acfebbf9-f863-4b02-a313-3f864d65b82c",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "e2f49aba-0be9-44b2-af6d-d58fc56c6782",
+        "assessment_date": "2023-09-07T19:18:18.979Z",
+        "rating": 97517,
+        "feedback": "Very professional and reliable",
+        "created_at": "2023-09-07T21:23:51.104Z",
+        "updated_at": "2023-09-07T18:49:40.165Z",
+        "skill_id": "01e63d93-2926-4aad-82d2-ac80723afef5",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "885cf1f0-418c-4d3a-8873-f788510fef32",
+        "email": "Valentin24@hotmail.com",
+        "firstName": "Rory",
+        "lastName": "Bogisich",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/745.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "5ecc66ed-17b6-48af-8776-d9cefaef85b2",
+        "email": "Dewitt_Erdman-Bailey50@yahoo.com",
+        "firstName": "Barry",
+        "lastName": "Johnston",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/27881154",
+        "tenantId": null
+      },
+      {
+        "reference": "2d396156-84c2-47ad-bacb-780f76ec6b3e",
+        "email": "Roosevelt47@gmail.com",
+        "firstName": "Shaina",
+        "lastName": "Jenkins-Botsford",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/89498910",
+        "tenantId": null
+      },
+      {
+        "reference": "362c1870-8e1d-4500-b613-35f0a7aa1b12",
+        "email": "Tod.Beahan@yahoo.com",
+        "firstName": "Noemi",
+        "lastName": "Cormier",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/768.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "a1327e9b-f482-44ef-88ae-030548e6af6b",
+        "email": "Gregg_Rosenbaum85@yahoo.com",
+        "firstName": "Alford",
+        "lastName": "Dickens",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/94094158",
+        "tenantId": null
+      }
+    ]
+  },
+  {
+    "skill": [
+      {
+        "id": "29247d50-d811-4241-9053-e28d42b9e9a8",
+        "name": "Programming",
+        "description": "Proficient in various programming languages",
+        "demand": 96001,
+        "performance": 75846,
+        "usage_count": 40669,
+        "created_at": "2023-09-07T22:58:54.963Z",
+        "updated_at": "2023-09-07T17:24:51.419Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "a2b7bc74-0c10-46cb-b5bf-5085f5078d59",
+        "name": "Graphic Design",
+        "description": "Creative and skilled in visual design",
+        "demand": 64409,
+        "performance": 83957,
+        "usage_count": 70812,
+        "created_at": "2023-09-07T12:46:22.666Z",
+        "updated_at": "2023-09-07T20:11:15.980Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "8c06c4c0-d55d-48c1-9c2e-9fe95546fb1f",
+        "name": "Data Analysis",
+        "description": "Experienced in analyzing large datasets",
+        "demand": 79244,
+        "performance": 70484,
+        "usage_count": 73126,
+        "created_at": "2023-09-07T18:22:36.401Z",
+        "updated_at": "2023-09-08T09:38:50.017Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "e7323e7d-1d58-4a53-af2b-23b2c88eac79",
+        "name": "Marketing",
+        "description": "Knowledgeable in marketing strategies",
+        "demand": 89373,
+        "performance": 80901,
+        "usage_count": 39970,
+        "created_at": "2023-09-07T17:51:33.211Z",
+        "updated_at": "2023-09-08T00:36:31.246Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "1d77752d-e2a7-4f4c-b8df-b8e0fd4b15ee",
+        "name": "Project Management",
+        "description": "Expertise in managing complex projects",
+        "demand": 12014,
+        "performance": 95869,
+        "usage_count": 48317,
+        "created_at": "2023-09-07T19:51:08.570Z",
+        "updated_at": "2023-09-07T11:45:37.667Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "usage_tracking": [
+      {
+        "id": "a9e2ab64-91bf-4f4e-b156-bef11b158290",
+        "usage_date": "2023-09-08T08:18:30.916Z",
+        "usage_count": 25406,
+        "usage_duration": 80967,
+        "created_at": "2023-09-07T18:57:10.570Z",
+        "updated_at": "2023-09-07T19:41:45.650Z",
+        "skill_id": "29247d50-d811-4241-9053-e28d42b9e9a8",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "c6694a28-12f4-40a0-9cd8-494f64bb7bca",
+        "usage_date": "2023-09-07T20:45:38.175Z",
+        "usage_count": 59334,
+        "usage_duration": 90349,
+        "created_at": "2023-09-07T17:18:40.124Z",
+        "updated_at": "2023-09-08T01:46:48.771Z",
+        "skill_id": "8c06c4c0-d55d-48c1-9c2e-9fe95546fb1f",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "23d93c7e-9cd2-4bf8-bbd3-d7f6403e89eb",
+        "usage_date": "2023-09-07T14:17:54.934Z",
+        "usage_count": 42477,
+        "usage_duration": 86711,
+        "created_at": "2023-09-08T04:22:09.448Z",
+        "updated_at": "2023-09-08T09:29:42.908Z",
+        "skill_id": "29247d50-d811-4241-9053-e28d42b9e9a8",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "687c7a6a-302c-4703-a213-225880e3d023",
+        "usage_date": "2023-09-08T01:46:45.868Z",
+        "usage_count": 7097,
+        "usage_duration": 24738,
+        "created_at": "2023-09-08T07:20:32.478Z",
+        "updated_at": "2023-09-08T02:15:33.476Z",
+        "skill_id": "29247d50-d811-4241-9053-e28d42b9e9a8",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "3d4c8177-6d89-4504-a70b-36bf03800b5c",
+        "usage_date": "2023-09-07T15:23:20.398Z",
+        "usage_count": 90352,
+        "usage_duration": 38742,
+        "created_at": "2023-09-08T08:15:24.893Z",
+        "updated_at": "2023-09-07T19:29:03.158Z",
+        "skill_id": "8c06c4c0-d55d-48c1-9c2e-9fe95546fb1f",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "reservation": [
+      {
+        "id": "ff981257-c6cf-4b17-bba2-e9f84035ede3",
+        "start_date": "2023-09-07T22:17:18.090Z",
+        "end_date": "2023-09-07T19:26:04.540Z",
+        "status": "Confirmed",
+        "created_at": "2023-09-07T13:56:41.192Z",
+        "updated_at": "2023-09-08T04:04:23.177Z",
+        "skill_id": "1d77752d-e2a7-4f4c-b8df-b8e0fd4b15ee",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "f6e1ccd2-6112-4b7c-8655-b13727927005",
+        "start_date": "2023-09-07T22:22:53.680Z",
+        "end_date": "2023-09-08T00:49:41.112Z",
+        "status": "Pending",
+        "created_at": "2023-09-08T09:31:44.570Z",
+        "updated_at": "2023-09-08T01:11:00.489Z",
+        "skill_id": "29247d50-d811-4241-9053-e28d42b9e9a8",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "e080931f-2c63-4981-9b65-fbfa69b2bb4c",
+        "start_date": "2023-09-08T04:00:29.143Z",
+        "end_date": "2023-09-08T04:57:54.737Z",
+        "status": "Cancelled",
+        "created_at": "2023-09-07T12:31:01.688Z",
+        "updated_at": "2023-09-07T16:08:05.203Z",
+        "skill_id": "a2b7bc74-0c10-46cb-b5bf-5085f5078d59",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "e0b8e0cb-a9ce-4b60-bfda-85be2efbde36",
+        "start_date": "2023-09-07T21:44:39.878Z",
+        "end_date": "2023-09-07T18:07:50.822Z",
+        "status": "Completed",
+        "created_at": "2023-09-07T19:23:49.748Z",
+        "updated_at": "2023-09-07T19:15:31.237Z",
+        "skill_id": "e7323e7d-1d58-4a53-af2b-23b2c88eac79",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "8427d856-4149-4215-a86c-ab04bf18af53",
+        "start_date": "2023-09-07T17:52:21.605Z",
+        "end_date": "2023-09-08T03:52:45.985Z",
+        "status": "In Progress",
+        "created_at": "2023-09-07T12:56:57.395Z",
+        "updated_at": "2023-09-07T15:20:19.600Z",
+        "skill_id": "1d77752d-e2a7-4f4c-b8df-b8e0fd4b15ee",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "performance_assessment": [
+      {
+        "id": "3db4eaa5-ce8b-4c11-bad8-5707685fdc65",
+        "assessment_date": "2023-09-08T07:53:31.795Z",
+        "rating": 25408,
+        "feedback": "Excellent performance. Highly recommended!",
+        "created_at": "2023-09-08T09:37:35.225Z",
+        "updated_at": "2023-09-07T18:36:57.753Z",
+        "skill_id": "1d77752d-e2a7-4f4c-b8df-b8e0fd4b15ee",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "66d37928-bf25-4dda-98e9-a12d359eca5a",
+        "assessment_date": "2023-09-07T14:04:55.503Z",
+        "rating": 47690,
+        "feedback": "Great job! Very satisfied with the results.",
+        "created_at": "2023-09-07T15:45:43.736Z",
+        "updated_at": "2023-09-08T08:19:44.292Z",
+        "skill_id": "29247d50-d811-4241-9053-e28d42b9e9a8",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "5be8d41a-4795-4cb6-bf4c-5108eccc472e",
+        "assessment_date": "2023-09-07T23:13:45.006Z",
+        "rating": 32836,
+        "feedback": "Good work. Keep it up!",
+        "created_at": "2023-09-08T09:28:34.966Z",
+        "updated_at": "2023-09-08T05:20:56.327Z",
+        "skill_id": "e7323e7d-1d58-4a53-af2b-23b2c88eac79",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "cb8bc8c6-929c-4c95-bb83-494c435ce245",
+        "assessment_date": "2023-09-07T16:38:20.559Z",
+        "rating": 24407,
+        "feedback": "Average performance. Room for improvement.",
+        "created_at": "2023-09-07T15:17:05.853Z",
+        "updated_at": "2023-09-07T14:38:04.355Z",
+        "skill_id": "29247d50-d811-4241-9053-e28d42b9e9a8",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "4b53504d-9d55-4755-9acc-387d79f32eac",
+        "assessment_date": "2023-09-07T12:47:59.472Z",
+        "rating": 64176,
+        "feedback": "Needs improvement. Not up to expectations.",
+        "created_at": "2023-09-07T15:58:13.709Z",
+        "updated_at": "2023-09-07T23:47:48.428Z",
+        "skill_id": "a2b7bc74-0c10-46cb-b5bf-5085f5078d59",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "225eed00-2a56-49e9-bc72-9c0d61e64d88",
+        "email": "Norwood.Bechtelar@hotmail.com",
+        "firstName": "Santos",
+        "lastName": "Kertzmann",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/360.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "756cad79-6203-45aa-81e6-522a62b9fc2f",
+        "email": "Antonetta10@hotmail.com",
+        "firstName": "Josh",
+        "lastName": "Hilpert",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/5845323",
+        "tenantId": null
+      },
+      {
+        "reference": "6aa830bb-5565-4a57-b3e3-68a51538a6da",
+        "email": "Marlene_Rau@yahoo.com",
+        "firstName": "Rosanna",
+        "lastName": "Schowalter",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/257.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "3659210f-04dd-4887-92a3-98a7d302d808",
+        "email": "Harmony.Morar3@yahoo.com",
+        "firstName": "Brian",
+        "lastName": "Lakin",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/97451041",
+        "tenantId": null
+      },
+      {
+        "reference": "696d5732-6f5d-4fef-a712-a921d5d17f7d",
+        "email": "Vernie_Batz@hotmail.com",
+        "firstName": "Blaze",
+        "lastName": "Beatty",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/924.jpg",
+        "tenantId": null
+      }
+    ]
+  },
+  {
+    "skill": [
+      {
+        "id": "04ed5a3f-cdd5-42f8-b9c1-a5e5ca669877",
+        "name": "Programming",
+        "description": "Expert in programming languages",
+        "demand": 11866,
+        "performance": 65681,
+        "usage_count": 19947,
+        "created_at": "2023-09-08T09:09:27.576Z",
+        "updated_at": "2023-09-07T21:06:23.975Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "4d63e0ab-e43a-4626-a66e-bd846ae05818",
+        "name": "Design",
+        "description": "Creative designer with a unique style",
+        "demand": 7934,
+        "performance": 79780,
+        "usage_count": 42112,
+        "created_at": "2023-09-07T19:14:52.348Z",
+        "updated_at": "2023-09-07T17:58:08.477Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "bad4ef52-9fa9-4f7f-8dc1-3c9a00eb2d47",
+        "name": "Marketing",
+        "description": "Experienced in digital marketing strategies",
+        "demand": 93839,
+        "performance": 73250,
+        "usage_count": 20448,
+        "created_at": "2023-09-07T21:34:27.907Z",
+        "updated_at": "2023-09-07T17:46:59.620Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "6555baa8-2f20-485e-943b-8cfb9d888614",
+        "name": "Writing",
+        "description": "Skilled writer with a passion for storytelling",
+        "demand": 11231,
+        "performance": 31838,
+        "usage_count": 21716,
+        "created_at": "2023-09-07T13:38:43.753Z",
+        "updated_at": "2023-09-07T22:30:22.103Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "4be5bdaa-2d3f-44f9-a880-41a55a6bbb42",
+        "name": "Photography",
+        "description": "Talented photographer capturing beautiful moments",
+        "demand": 32350,
+        "performance": 62153,
+        "usage_count": 18535,
+        "created_at": "2023-09-08T05:04:19.177Z",
+        "updated_at": "2023-09-07T15:57:40.366Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "usage_tracking": [
+      {
+        "id": "dd792a01-47dd-4bf0-9b8f-38827ddb6b77",
+        "usage_date": "2023-09-08T10:50:32.254Z",
+        "usage_count": 10824,
+        "usage_duration": 65685,
+        "created_at": "2023-09-07T15:14:33.945Z",
+        "updated_at": "2023-09-07T12:07:33.373Z",
+        "skill_id": "04ed5a3f-cdd5-42f8-b9c1-a5e5ca669877",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "5a7d2345-1ecf-46cf-bf4b-5551bed04f5e",
+        "usage_date": "2023-09-08T10:56:40.277Z",
+        "usage_count": 62837,
+        "usage_duration": 93669,
+        "created_at": "2023-09-07T23:02:06.582Z",
+        "updated_at": "2023-09-08T09:08:26.098Z",
+        "skill_id": "bad4ef52-9fa9-4f7f-8dc1-3c9a00eb2d47",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "56a163e7-4e5b-4306-b3f8-eb66a3578be8",
+        "usage_date": "2023-09-07T11:56:06.219Z",
+        "usage_count": 56653,
+        "usage_duration": 85688,
+        "created_at": "2023-09-08T01:25:45.231Z",
+        "updated_at": "2023-09-08T04:53:10.848Z",
+        "skill_id": "4be5bdaa-2d3f-44f9-a880-41a55a6bbb42",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "ee8fbec5-dd5e-483e-b992-79057e1101b8",
+        "usage_date": "2023-09-08T02:32:28.530Z",
+        "usage_count": 43105,
+        "usage_duration": 45797,
+        "created_at": "2023-09-07T12:17:10.834Z",
+        "updated_at": "2023-09-07T21:49:30.787Z",
+        "skill_id": "4be5bdaa-2d3f-44f9-a880-41a55a6bbb42",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "9d7e8dc5-4cde-4b8e-a233-15d800de8351",
+        "usage_date": "2023-09-08T03:42:32.242Z",
+        "usage_count": 33165,
+        "usage_duration": 27078,
+        "created_at": "2023-09-08T01:18:02.562Z",
+        "updated_at": "2023-09-07T22:24:40.972Z",
+        "skill_id": "4be5bdaa-2d3f-44f9-a880-41a55a6bbb42",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "reservation": [
+      {
+        "id": "e49185ba-75dd-4139-9dd2-6b2e08ebd3c1",
+        "start_date": "2023-09-08T07:41:53.898Z",
+        "end_date": "2023-09-07T17:56:23.273Z",
+        "status": "Confirmed",
+        "created_at": "2023-09-07T16:21:00.353Z",
+        "updated_at": "2023-09-08T10:32:06.869Z",
+        "skill_id": "04ed5a3f-cdd5-42f8-b9c1-a5e5ca669877",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "d45c53e2-3f49-40dc-aa7e-298eae02d90f",
+        "start_date": "2023-09-08T06:22:25.684Z",
+        "end_date": "2023-09-07T13:55:51.397Z",
+        "status": "Pending",
+        "created_at": "2023-09-08T00:33:05.106Z",
+        "updated_at": "2023-09-07T11:22:04.311Z",
+        "skill_id": "6555baa8-2f20-485e-943b-8cfb9d888614",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "636c4871-3e78-4684-8d9d-ca13d45f5d15",
+        "start_date": "2023-09-07T17:44:38.218Z",
+        "end_date": "2023-09-08T11:05:17.892Z",
+        "status": "Cancelled",
+        "created_at": "2023-09-08T06:03:54.233Z",
+        "updated_at": "2023-09-07T22:30:50.237Z",
+        "skill_id": "6555baa8-2f20-485e-943b-8cfb9d888614",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "e3a90f0e-e294-4f3e-b0e2-bed182d11eb8",
+        "start_date": "2023-09-08T04:24:16.482Z",
+        "end_date": "2023-09-08T08:37:48.108Z",
+        "status": "Completed",
+        "created_at": "2023-09-08T10:23:40.184Z",
+        "updated_at": "2023-09-07T21:12:16.589Z",
+        "skill_id": "bad4ef52-9fa9-4f7f-8dc1-3c9a00eb2d47",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "6d801a07-a444-4455-b850-8dead014ad0f",
+        "start_date": "2023-09-08T04:41:44.326Z",
+        "end_date": "2023-09-07T18:22:11.282Z",
+        "status": "On Hold",
+        "created_at": "2023-09-08T01:28:12.506Z",
+        "updated_at": "2023-09-07T13:38:18.243Z",
+        "skill_id": "04ed5a3f-cdd5-42f8-b9c1-a5e5ca669877",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "performance_assessment": [
+      {
+        "id": "cf65cec7-31cb-4d56-b88d-7fa37447f822",
+        "assessment_date": "2023-09-08T03:49:53.491Z",
+        "rating": 83294,
+        "feedback": "Excellent performance, highly recommended!",
+        "created_at": "2023-09-07T23:22:24.045Z",
+        "updated_at": "2023-09-07T16:53:22.841Z",
+        "skill_id": "4d63e0ab-e43a-4626-a66e-bd846ae05818",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "723411f0-4e80-4590-a115-d7bf4a3b83d6",
+        "assessment_date": "2023-09-08T00:40:51.716Z",
+        "rating": 97536,
+        "feedback": "Great work, exceeded expectations!",
+        "created_at": "2023-09-07T13:57:25.365Z",
+        "updated_at": "2023-09-07T15:11:30.338Z",
+        "skill_id": "4be5bdaa-2d3f-44f9-a880-41a55a6bbb42",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "286b6658-68bc-4896-bfe3-e745a28e0d22",
+        "assessment_date": "2023-09-07T18:33:22.946Z",
+        "rating": 96246,
+        "feedback": "Good job, keep up the good work!",
+        "created_at": "2023-09-07T17:26:10.478Z",
+        "updated_at": "2023-09-07T23:54:31.730Z",
+        "skill_id": "bad4ef52-9fa9-4f7f-8dc1-3c9a00eb2d47",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "2cd16474-b960-4bf5-8b37-dd8a5fc0b684",
+        "assessment_date": "2023-09-07T16:34:25.670Z",
+        "rating": 50563,
+        "feedback": "Satisfactory performance, room for improvement",
+        "created_at": "2023-09-07T15:13:49.793Z",
+        "updated_at": "2023-09-08T09:04:53.610Z",
+        "skill_id": "04ed5a3f-cdd5-42f8-b9c1-a5e5ca669877",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "7c7b6306-fa70-4d70-8440-afc88326df51",
+        "assessment_date": "2023-09-07T12:02:34.528Z",
+        "rating": 19588,
+        "feedback": "Needs improvement, more effort required",
+        "created_at": "2023-09-07T15:16:16.432Z",
+        "updated_at": "2023-09-08T04:53:00.165Z",
+        "skill_id": "04ed5a3f-cdd5-42f8-b9c1-a5e5ca669877",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "29c5e706-a495-4e3f-9bd1-62dac293af88",
+        "email": "Isabell62@yahoo.com",
+        "firstName": "Korbin",
+        "lastName": "Morissette",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/81734219",
+        "tenantId": null
+      },
+      {
+        "reference": "3880c881-28c5-4de8-884f-f4d9232a6607",
+        "email": "Lisette28@gmail.com",
+        "firstName": "Roselyn",
+        "lastName": "Murray",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/461.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "11c7707b-2182-482f-a8d1-da0487a1c338",
+        "email": "Eusebio_Denesik@yahoo.com",
+        "firstName": "Macie",
+        "lastName": "Heathcote",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/1756077",
+        "tenantId": null
+      },
+      {
+        "reference": "75455351-a261-41d0-b0f2-0a427fa0575f",
+        "email": "Andreane_Turcotte@hotmail.com",
+        "firstName": "Daisy",
+        "lastName": "Hermiston",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/816.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "2db2c541-4a5d-4c02-8619-df256206c798",
+        "email": "Caitlyn17@hotmail.com",
+        "firstName": "Kristopher",
+        "lastName": "Kirlin",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/2498820",
+        "tenantId": null
+      }
+    ]
+  },
+  {
+    "skill": [
+      {
+        "id": "25c2f271-1836-41fa-b802-80c90edcb6b5",
+        "name": "Programming",
+        "description": "Experienced in programming languages",
+        "demand": 4939,
+        "performance": 63621,
+        "usage_count": 2278,
+        "created_at": "2023-09-08T09:12:04.067Z",
+        "updated_at": "2023-09-08T08:56:44.652Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "0fe778ed-0767-41ce-87db-38d94a0290fd",
+        "name": "Design",
+        "description": "Creative design skills",
+        "demand": 7745,
+        "performance": 98066,
+        "usage_count": 97211,
+        "created_at": "2023-09-08T06:15:41.031Z",
+        "updated_at": "2023-09-07T21:20:38.293Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "57691836-a413-4bb4-8c89-c31db428d423",
+        "name": "Marketing",
+        "description": "Expert in online marketing strategies",
+        "demand": 39871,
+        "performance": 69891,
+        "usage_count": 20560,
+        "created_at": "2023-09-07T21:59:45.472Z",
+        "updated_at": "2023-09-08T04:40:25.031Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "e76a34a0-ebbc-49a6-802f-8a904b03390a",
+        "name": "Writing",
+        "description": "Proficient in writing articles",
+        "demand": 3206,
+        "performance": 16634,
+        "usage_count": 82046,
+        "created_at": "2023-09-07T12:04:07.256Z",
+        "updated_at": "2023-09-07T17:34:02.455Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "e258aef5-f058-4694-b646-bbdf313259fb",
+        "name": "Photography",
+        "description": "Skilled in capturing beautiful photographs",
+        "demand": 79452,
+        "performance": 76360,
+        "usage_count": 65588,
+        "created_at": "2023-09-07T12:25:54.625Z",
+        "updated_at": "2023-09-07T22:40:00.221Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "usage_tracking": [
+      {
+        "id": "b22d274c-dc28-4b6b-8579-687e5c83fc33",
+        "usage_date": "2023-09-07T20:32:08.305Z",
+        "usage_count": 43460,
+        "usage_duration": 92377,
+        "created_at": "2023-09-07T23:09:07.406Z",
+        "updated_at": "2023-09-07T21:38:30.230Z",
+        "skill_id": "25c2f271-1836-41fa-b802-80c90edcb6b5",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "80271686-f037-4b83-a8f1-78b621bcc331",
+        "usage_date": "2023-09-08T02:54:55.691Z",
+        "usage_count": 57396,
+        "usage_duration": 84130,
+        "created_at": "2023-09-07T14:22:03.575Z",
+        "updated_at": "2023-09-07T14:29:10.101Z",
+        "skill_id": "57691836-a413-4bb4-8c89-c31db428d423",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "3c859b64-2dfb-43c8-8bd4-8e29184fa882",
+        "usage_date": "2023-09-07T13:54:59.433Z",
+        "usage_count": 96018,
+        "usage_duration": 93363,
+        "created_at": "2023-09-08T09:32:23.611Z",
+        "updated_at": "2023-09-07T22:50:56.256Z",
+        "skill_id": "0fe778ed-0767-41ce-87db-38d94a0290fd",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "153cbc00-e1fd-4385-9377-9569bb1e82fd",
+        "usage_date": "2023-09-07T13:11:00.668Z",
+        "usage_count": 10862,
+        "usage_duration": 89820,
+        "created_at": "2023-09-07T23:28:51.124Z",
+        "updated_at": "2023-09-07T12:11:58.436Z",
+        "skill_id": "e258aef5-f058-4694-b646-bbdf313259fb",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "25f0b75f-422a-4912-b9af-5513fc4a8595",
+        "usage_date": "2023-09-08T04:45:33.194Z",
+        "usage_count": 35685,
+        "usage_duration": 71293,
+        "created_at": "2023-09-08T00:45:00.073Z",
+        "updated_at": "2023-09-08T05:41:24.112Z",
+        "skill_id": "25c2f271-1836-41fa-b802-80c90edcb6b5",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "reservation": [
+      {
+        "id": "fbe0f1b0-312e-4ec2-b2b4-be89db72b7df",
+        "start_date": "2023-09-07T16:53:32.080Z",
+        "end_date": "2023-09-08T04:26:24.174Z",
+        "status": "Pending",
+        "created_at": "2023-09-08T03:11:43.931Z",
+        "updated_at": "2023-09-08T03:50:56.910Z",
+        "skill_id": "57691836-a413-4bb4-8c89-c31db428d423",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "b5cbe5da-59f7-4076-8589-3270fc8271cc",
+        "start_date": "2023-09-08T10:18:02.891Z",
+        "end_date": "2023-09-07T19:26:12.942Z",
+        "status": "Confirmed",
+        "created_at": "2023-09-07T18:54:18.295Z",
+        "updated_at": "2023-09-07T15:48:34.244Z",
+        "skill_id": "e76a34a0-ebbc-49a6-802f-8a904b03390a",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "d786aef3-3963-4536-918c-a91bd3104e40",
+        "start_date": "2023-09-08T08:23:01.242Z",
+        "end_date": "2023-09-07T20:35:09.762Z",
+        "status": "Cancelled",
+        "created_at": "2023-09-08T08:30:51.374Z",
+        "updated_at": "2023-09-07T11:24:21.664Z",
+        "skill_id": "57691836-a413-4bb4-8c89-c31db428d423",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "2f86bcb9-26eb-485f-b33e-f42cf6e770e8",
+        "start_date": "2023-09-07T19:37:03.071Z",
+        "end_date": "2023-09-08T11:04:31.805Z",
+        "status": "Completed",
+        "created_at": "2023-09-07T23:52:03.917Z",
+        "updated_at": "2023-09-07T13:22:15.200Z",
+        "skill_id": "25c2f271-1836-41fa-b802-80c90edcb6b5",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "b90faf1e-89a4-44a1-80c1-7df6e7beb10d",
+        "start_date": "2023-09-08T04:26:56.511Z",
+        "end_date": "2023-09-07T12:04:11.468Z",
+        "status": "In Progress",
+        "created_at": "2023-09-07T17:15:46.959Z",
+        "updated_at": "2023-09-07T15:19:37.084Z",
+        "skill_id": "e76a34a0-ebbc-49a6-802f-8a904b03390a",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "performance_assessment": [
+      {
+        "id": "71183c18-cd2a-4f5e-8a2e-a7cbc9fc4ce5",
+        "assessment_date": "2023-09-08T07:38:40.517Z",
+        "rating": 79518,
+        "feedback": "Excellent performance",
+        "created_at": "2023-09-07T11:38:24.310Z",
+        "updated_at": "2023-09-08T05:46:38.640Z",
+        "skill_id": "e76a34a0-ebbc-49a6-802f-8a904b03390a",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "75346203-939b-433d-b086-8617575000e1",
+        "assessment_date": "2023-09-08T02:43:37.911Z",
+        "rating": 68682,
+        "feedback": "Great attention to detail",
+        "created_at": "2023-09-07T23:45:34.300Z",
+        "updated_at": "2023-09-07T13:09:31.910Z",
+        "skill_id": "e258aef5-f058-4694-b646-bbdf313259fb",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "b401035d-8774-46c4-a28a-35e893f87956",
+        "assessment_date": "2023-09-07T14:58:43.753Z",
+        "rating": 76444,
+        "feedback": "Strong communication skills",
+        "created_at": "2023-09-07T18:34:11.674Z",
+        "updated_at": "2023-09-07T23:42:19.573Z",
+        "skill_id": "e76a34a0-ebbc-49a6-802f-8a904b03390a",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "ae51f2ea-2fe6-4cde-bc1d-a2d04f55396d",
+        "assessment_date": "2023-09-08T00:20:37.709Z",
+        "rating": 66791,
+        "feedback": "Highly professional",
+        "created_at": "2023-09-07T11:56:58.793Z",
+        "updated_at": "2023-09-07T18:32:08.867Z",
+        "skill_id": "e258aef5-f058-4694-b646-bbdf313259fb",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "565d6d1f-8f65-44c5-a08b-94bba4b76f96",
+        "assessment_date": "2023-09-07T16:00:14.674Z",
+        "rating": 46801,
+        "feedback": "Consistently delivers quality work",
+        "created_at": "2023-09-07T12:55:55.057Z",
+        "updated_at": "2023-09-08T01:51:42.048Z",
+        "skill_id": "e76a34a0-ebbc-49a6-802f-8a904b03390a",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "b290895e-9b36-4f06-bcb3-10e79b8141d0",
+        "email": "Dannie82@gmail.com",
+        "firstName": "Mckenna",
+        "lastName": "Jerde",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/66.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "ae71c380-1242-42ee-93f0-65a7641f67e5",
+        "email": "Linnie_Kozey@yahoo.com",
+        "firstName": "Torrey",
+        "lastName": "Schmitt",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/1183.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "2b980634-fa51-437a-8a7b-b21f53acda17",
+        "email": "Caden.Weber3@yahoo.com",
+        "firstName": "Moses",
+        "lastName": "Kuvalis",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/976.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "3a09a7d4-c4ff-4e0b-8142-954b36c8b8ee",
+        "email": "Maudie89@hotmail.com",
+        "firstName": "Deion",
+        "lastName": "Quigley",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/916.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "a4dce35d-cb36-4367-a4a6-b8d7bd55b82d",
+        "email": "Griffin_Kihn@hotmail.com",
+        "firstName": "Dolores",
+        "lastName": "Lynch-Gutmann",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/705.jpg",
+        "tenantId": null
+      }
+    ]
+  },
+  {
+    "skill": [
+      {
+        "id": "fc49a7f8-d4ad-4d13-8a3f-550352516937",
+        "name": "Programming",
+        "description": "Expert in programming languages",
+        "demand": 46193,
+        "performance": 44016,
+        "usage_count": 58407,
+        "created_at": "2023-09-08T08:54:16.798Z",
+        "updated_at": "2023-09-07T18:50:49.639Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "298b3c89-da62-4a09-a329-f0bab953081e",
+        "name": "Design",
+        "description": "Creative design skills",
+        "demand": 97651,
+        "performance": 84882,
+        "usage_count": 74882,
+        "created_at": "2023-09-07T13:02:13.461Z",
+        "updated_at": "2023-09-08T04:49:29.637Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "0a185ada-2f12-40f2-994f-3f7ec696eca6",
+        "name": "Marketing",
+        "description": "Digital marketing expertise",
+        "demand": 39663,
+        "performance": 94016,
+        "usage_count": 61542,
+        "created_at": "2023-09-08T10:05:25.960Z",
+        "updated_at": "2023-09-07T20:18:10.932Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "d179e4a1-1046-40f8-a6e0-4aa410b6cb3b",
+        "name": "Writing",
+        "description": "Professional writing skills",
+        "demand": 76053,
+        "performance": 40556,
+        "usage_count": 54690,
+        "created_at": "2023-09-07T15:41:07.217Z",
+        "updated_at": "2023-09-08T02:12:02.892Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "a32c2f0d-7476-48e8-b954-e6457a4f9982",
+        "name": "Photography",
+        "description": "Photography skills",
+        "demand": 74499,
+        "performance": 39113,
+        "usage_count": 43741,
+        "created_at": "2023-09-08T04:01:00.811Z",
+        "updated_at": "2023-09-07T19:04:56.148Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "usage_tracking": [
+      {
+        "id": "eddda60c-79d8-49b3-91bf-5f275b69ce5f",
+        "usage_date": "2023-09-07T14:31:15.180Z",
+        "usage_count": 15632,
+        "usage_duration": 26019,
+        "created_at": "2023-09-08T08:15:31.256Z",
+        "updated_at": "2023-09-07T15:04:26.333Z",
+        "skill_id": "d179e4a1-1046-40f8-a6e0-4aa410b6cb3b",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "3f2ebfe0-84b8-4ed8-8254-721a8ff2d1bb",
+        "usage_date": "2023-09-08T04:18:15.300Z",
+        "usage_count": 10009,
+        "usage_duration": 25119,
+        "created_at": "2023-09-08T03:35:07.627Z",
+        "updated_at": "2023-09-08T00:12:18.804Z",
+        "skill_id": "298b3c89-da62-4a09-a329-f0bab953081e",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "7efd4ab5-2c38-42e9-8fee-1a1be6657724",
+        "usage_date": "2023-09-08T08:23:49.101Z",
+        "usage_count": 22489,
+        "usage_duration": 20609,
+        "created_at": "2023-09-07T21:34:52.943Z",
+        "updated_at": "2023-09-07T11:23:11.436Z",
+        "skill_id": "0a185ada-2f12-40f2-994f-3f7ec696eca6",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "ea4c241c-5599-4a43-b814-e6ba7a237ce6",
+        "usage_date": "2023-09-07T18:25:45.089Z",
+        "usage_count": 47848,
+        "usage_duration": 55586,
+        "created_at": "2023-09-08T10:01:17.998Z",
+        "updated_at": "2023-09-07T16:18:34.276Z",
+        "skill_id": "a32c2f0d-7476-48e8-b954-e6457a4f9982",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "2bdb76c0-ffb9-4395-af40-658baad35ec9",
+        "usage_date": "2023-09-07T11:40:39.031Z",
+        "usage_count": 23109,
+        "usage_duration": 53967,
+        "created_at": "2023-09-07T19:11:34.414Z",
+        "updated_at": "2023-09-07T18:01:49.862Z",
+        "skill_id": "d179e4a1-1046-40f8-a6e0-4aa410b6cb3b",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "reservation": [
+      {
+        "id": "f147c882-a84f-4140-818e-9cafc4e7cda3",
+        "start_date": "2023-09-07T21:03:21.100Z",
+        "end_date": "2023-09-07T11:47:15.546Z",
+        "status": "Confirmed",
+        "created_at": "2023-09-07T23:51:35.153Z",
+        "updated_at": "2023-09-07T16:28:07.266Z",
+        "skill_id": "fc49a7f8-d4ad-4d13-8a3f-550352516937",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "c729fb26-d663-4d59-880a-0d5c31c1a38d",
+        "start_date": "2023-09-07T13:57:16.819Z",
+        "end_date": "2023-09-07T23:11:10.944Z",
+        "status": "Pending",
+        "created_at": "2023-09-07T23:58:57.447Z",
+        "updated_at": "2023-09-07T18:36:27.459Z",
+        "skill_id": "d179e4a1-1046-40f8-a6e0-4aa410b6cb3b",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "f2376909-3ffb-4402-9243-cc6b57bd279e",
+        "start_date": "2023-09-07T17:24:43.507Z",
+        "end_date": "2023-09-07T18:43:51.215Z",
+        "status": "Cancelled",
+        "created_at": "2023-09-08T00:48:49.018Z",
+        "updated_at": "2023-09-08T09:38:32.910Z",
+        "skill_id": "fc49a7f8-d4ad-4d13-8a3f-550352516937",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "5f082e1a-8730-4b88-8932-b5cde41933df",
+        "start_date": "2023-09-08T09:20:13.308Z",
+        "end_date": "2023-09-07T16:15:42.815Z",
+        "status": "Completed",
+        "created_at": "2023-09-07T20:50:42.183Z",
+        "updated_at": "2023-09-07T22:47:25.260Z",
+        "skill_id": "298b3c89-da62-4a09-a329-f0bab953081e",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "f8f4f3a3-0d9e-420f-8af9-ad85510a1aef",
+        "start_date": "2023-09-07T21:50:52.146Z",
+        "end_date": "2023-09-08T01:53:11.442Z",
+        "status": "On Hold",
+        "created_at": "2023-09-08T01:06:18.880Z",
+        "updated_at": "2023-09-07T12:50:35.283Z",
+        "skill_id": "298b3c89-da62-4a09-a329-f0bab953081e",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "performance_assessment": [
+      {
+        "id": "e5af99ea-153c-448c-abbe-da554a0da1cd",
+        "assessment_date": "2023-09-07T19:16:55.140Z",
+        "rating": 49290,
+        "feedback": "Excellent performance",
+        "created_at": "2023-09-08T05:28:06.140Z",
+        "updated_at": "2023-09-07T16:02:45.293Z",
+        "skill_id": "d179e4a1-1046-40f8-a6e0-4aa410b6cb3b",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "f43c7f9d-943a-477e-9985-bc79c3388d65",
+        "assessment_date": "2023-09-08T02:28:42.146Z",
+        "rating": 65362,
+        "feedback": "Highly recommended",
+        "created_at": "2023-09-07T13:33:21.112Z",
+        "updated_at": "2023-09-07T17:20:48.076Z",
+        "skill_id": "298b3c89-da62-4a09-a329-f0bab953081e",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "ed7e2bae-bfdb-493b-a234-55c40c840367",
+        "assessment_date": "2023-09-08T10:29:42.158Z",
+        "rating": 73303,
+        "feedback": "Great work ethic",
+        "created_at": "2023-09-07T17:44:29.957Z",
+        "updated_at": "2023-09-07T23:06:08.064Z",
+        "skill_id": "d179e4a1-1046-40f8-a6e0-4aa410b6cb3b",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "b762b69d-8104-489b-9281-2de95a8ebf10",
+        "assessment_date": "2023-09-07T19:55:15.433Z",
+        "rating": 49651,
+        "feedback": "Outstanding skills",
+        "created_at": "2023-09-08T03:02:39.888Z",
+        "updated_at": "2023-09-08T02:04:24.070Z",
+        "skill_id": "d179e4a1-1046-40f8-a6e0-4aa410b6cb3b",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "a9fb93e1-61a4-4146-a9fc-3981994e433e",
+        "assessment_date": "2023-09-08T04:53:47.680Z",
+        "rating": 24966,
+        "feedback": "Impressive performance",
+        "created_at": "2023-09-07T14:40:49.366Z",
+        "updated_at": "2023-09-08T06:01:55.003Z",
+        "skill_id": "d179e4a1-1046-40f8-a6e0-4aa410b6cb3b",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "2882a01f-1796-418c-a2a9-92b0370116da",
+        "email": "Berniece_Bradtke99@hotmail.com",
+        "firstName": "Mozell",
+        "lastName": "Batz",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/36247656",
+        "tenantId": null
+      },
+      {
+        "reference": "6df484c1-9597-4d36-8527-7578262f65ee",
+        "email": "Roberto.Smitham66@hotmail.com",
+        "firstName": "Kaya",
+        "lastName": "Rau",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/78.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "e0283c1a-c185-4fb6-8927-f7add94b37d9",
+        "email": "Jimmy72@gmail.com",
+        "firstName": "Germaine",
+        "lastName": "Mann",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/980.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "c5dd1342-c2cb-451b-88e5-bebaa86d9910",
+        "email": "Nichole96@yahoo.com",
+        "firstName": "Sandrine",
+        "lastName": "Rosenbaum",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/784.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "188278e2-e1ab-44fe-b1da-f3e35b6c7e93",
+        "email": "Delia.Johnson@hotmail.com",
+        "firstName": "Waldo",
+        "lastName": "Cremin",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/643.jpg",
+        "tenantId": null
+      }
+    ]
+  }
+]
